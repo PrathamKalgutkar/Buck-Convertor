@@ -1,0 +1,12 @@
+#,Reference,Qty,Value,Datasheet,Product Link,Price
+1,Rsc1,1,0.3,~,https://robu.in/product/0-3-ohm-3w-surface-mount-sense-resistor-pack-of-3/#tab-description,12
+2,R2,1,10K,~,https://robu.in/product/10k-ohm-0-5w-metal-film-resistor-pack-of-50/,0.98
+3,"R1,R3",2,1K,~,https://robu.in/product/1k-ohm-0-5w-metal-film-resistor-pack-of-50/,0.98
+4,"J1,J2",2,Screw_Terminal_01x02,~,https://robu.in/product/2-pin-straight-pcb-screw-terminal-block-connector-3-5mm-pitch/,10
+5,C3,1,6.8uF,~,https://robu.in/product/400ax6r8mefct78x10-8-rubycon-6-8uf-400v-%c2%b120-plugind8xl10-8mm-aluminum-electrolytic-capacitors-leaded-rohs/#tab-description,13
+6,C2,1,100uF,~,https://robu.in/product/0-3-ohm-3w-surface-mount-sense-resistor-pack-of-3/#tab-description,50
+7,C1,1,270pF,~,https://robu.in/product/c0805c271j5gactu-kemet-smd-multilayer-ceramic-capacitor-270-pf-50-v-0805-2012-metric-%c2%b1-5-c0g-np0-c-series-kemet/,1.83
+8,D1,1,1N5819,https://www.st.com/resource/en/datasheet/1n5819.pdf,https://robu.in/product/1n5819-1w-diode-pack-of-30/,2.67
+9,L1,1,68uH,https://products.sumida.com/products/pdf/CDRH104R_202403.pdf?t=1766595187,https://robu.in/product/cdrh104r-68%ce%bch-power-inductor-pack-of-5/#tab-specification,15
+10,U1,1,MC34063AD,http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF,https://robu.in/product/mc34063ad-texas-instruments-adjustable-1-25v40v-3v40v-1-5a-soic-8-dc-dc-converters-rohs/,43
+,,12,,,,149.46
